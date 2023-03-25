@@ -21,7 +21,7 @@ html,body{
 }
 
 .left{
-  background:linear-gradient(red,blue,#12a23d);
+  background:linear-gradient(red,blue,#7fff94);
   width:40%;
   height:100vh;
 }
@@ -45,7 +45,7 @@ footer{
 .button-89{
   font-size:42px;
   font-weight:bold;
-  
+
 }
 
 
